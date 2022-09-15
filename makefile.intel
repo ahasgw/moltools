@@ -1,0 +1,4 @@
+CC = icx
+CXX = icpx
+
+include Makefile
